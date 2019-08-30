@@ -1,2 +1,2 @@
-# project-euler
-This repository holds code/solutions for the Project Euler competition.
+# Euler Project
+This repository holds code/solutions for the Euler Project competition.
