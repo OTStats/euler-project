@@ -14,7 +14,7 @@ is_prime <- function(x) {
 }
 
 
-prime_facts <- name <- function(x) {
+prime_facts <- function(x) {
   potential_factors <- 2:floor(sqrt(x))
   factors <- potential_factors[x %% potential_factors == 0]
   prime_factors <- factors[unlist(lapply(factors, is_prime))]
