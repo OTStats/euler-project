@@ -1,6 +1,6 @@
 # README.md
 
-This repository holds code/solutions for the [Project Euler](https://projecteuler.net/). According to the website: 
+This repository holds my code/solutions for the [Project Euler](https://projecteuler.net/). If you're unfamiliar, here is a short description given on the project website: 
 
 > What is Project Euler?
 >
@@ -8,6 +8,6 @@ This repository holds code/solutions for the [Project Euler](https://projecteule
 >
 > The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 
-I started working on the Project Euler solutions in August 2019 to improve my programming skills. As of January 2021, all of my solutions have been complete using R. One of my goals for this year is to expand solutions into Python. 
+I started working on the Project Euler solutions in August 2019 to improve my programming skills in a fun and low-key setting. As of January 2021, all of my solutions have been complete using R. One of my goals for this year is to expand solutions into Python. 
 
-I approach these problems like [code golf](https://en.wikipedia.org/wiki/Code_golf), trying to find the solution in the shortest amount of time with the shortest source code. I have found that part of the challenge for some of these solutions is using effect programming practices that are not memory-intensive. 
+I approach these problems as [code golf](https://en.wikipedia.org/wiki/Code_golf), trying to find the solution in the shortest amount of time with the shortest source code. I have found that part of the challenge for some of these solutions is using effective programming practices that are not memory-intensive. 
